@@ -20,7 +20,7 @@ Again I used a cooler colour to keep it simple and add a bit of variety to the d
 
 As I stated earlier I removed more complicated operations such as division and multiplication. While thinking of what I wanted to change about the standard calculator design I drew a sketch as shown below.
 
-![Python Calc Sketch](https://user-images.githubusercontent.com/103608409/200457625-630ddfa9-04e0-4ffc-a574-e0ce71c08b84.jpg)
+<![Python Calc Sketch](https://user-images.githubusercontent.com/103608409/200457625-630ddfa9-04e0-4ffc-a574-e0ce71c08b84.jpg) width=500>
 
 ### Images
 
