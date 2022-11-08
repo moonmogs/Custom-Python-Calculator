@@ -20,7 +20,7 @@ Again I used a cooler colour to keep it simple and add a bit of variety to the d
 
 As I stated earlier I removed more complicated operations such as division and multiplication. While thinking of what I wanted to change about the standard calculator design I drew a sketch as shown below.
 
-<a href=sketch><image src="https://github.com/moonmogs/Custom-Python-Calculator/blob/main/Python%20Calc%20Sketch.jpg raw=true" title="My Sketch" width=500
+<a href=sketch><image src="https://github.com/moonmogs/Custom-Python-Calculator/blob/main/Python%20Calc%20Sketch.jpgraw=true" title="My Sketch" width=500
 
 ### Images
 
