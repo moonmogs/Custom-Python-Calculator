@@ -1,4 +1,4 @@
-# Custom-Python-Calculator
+# Custom Python Calculator
 
 ---
 Made By S M Chow Worn
